@@ -1,4 +1,4 @@
-**movies-react-spa
+# movies-react-spa
 
 rm -rf node_modules/
 
