@@ -1,3 +1,5 @@
+**movies-react-spa
+
 rm -rf node_modules/
 
 node -v  
